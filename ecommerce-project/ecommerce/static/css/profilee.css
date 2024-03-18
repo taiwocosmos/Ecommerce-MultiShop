@@ -1,0 +1,21 @@
+.sty{
+    width: 50px;
+    height: 50px;
+}
+.all{
+    width: 350px;
+    justify-content: space-evenly;
+    background-color: rgb(218, 234, 207);
+    border: 1px solid black;
+    padding: 20px;
+    margin-left: 400px;
+    align-items: center;
+    height:800px;
+}
+.mdeia-body{
+    margin-left: 50px;
+}
+.media{
+    display: flex;
+    gap: 20px;
+}
